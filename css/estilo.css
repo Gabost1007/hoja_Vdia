@@ -1,0 +1,50 @@
+*{
+	margin: 0 25px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+	background:blue;
+}
+.body{
+	border: 1px solid black;
+	margin-top: 30px; 
+	margin-left: 300px;
+	margin-right: 300px;
+	background-color: #FDEDEC;
+}
+
+.header{
+	text-align: center;
+}
+
+.section{
+	text-align: center;
+}
+
+.Datos{
+	display: flex;
+	justify-content: center;
+}
+
+div.Preguntas{
+	text-align: left;
+	width: 250px;
+	height: 250px;
+	float: left;
+
+}
+
+div.Respuestas{
+	text-align: left;
+	width: 219px;
+	height: 250px;
+	float: left;  
+}
+
+div.section{
+	width: 200px;
+	height: 200px;
+	text-align: left;	
+}
+
